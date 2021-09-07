@@ -1,0 +1,2 @@
+# ARaskolnikoff.github.io
+.fulltilt
