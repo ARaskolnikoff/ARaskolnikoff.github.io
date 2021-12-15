@@ -4,6 +4,8 @@
 
 ## Домашние задания по [семинарам 3-4](https://github.com/ARaskolnikoff/ARaskolnikoff.github.io/wiki/Деловая-игра)
 
+## [Отчет](https://github.com/ARaskolnikoff/ARaskolnikoff.github.io/wiki/Лабораторные-работы-1–3) по лабораторным работам 1-3
+
 ## [Отчет](https://github.com/ARaskolnikoff/ARaskolnikoff.github.io/wiki/Лабораторные-работы-4–6) по лабораторным работам 4-6
 
 ## [IDEF0-диаграммы](https://github.com/ARaskolnikoff/ARaskolnikoff.github.io/wiki/IDEF0–диаграммы-ролей) ролей
