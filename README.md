@@ -16,6 +16,6 @@
 
 ## 2-ой семестр
 
-### [Отчет](https://github.com/ARaskolnikoff/ARaskolnikoff.github.io/wiki/IDEF0–диаграммы-ролей) по курсовой работе
+### [Отчет](https://github.com/ARaskolnikoff/ARaskolnikoff.github.io/wiki/Курсовой-проект) по курсовой работе
 
 ### Рефераты: [разработанный](https://github.com/stankin/design-part-2/wiki/exam02-7) и [проверенный](https://github.com/stankin/design-part-2/wiki/exam02-2)
